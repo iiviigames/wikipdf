@@ -2,16 +2,16 @@
 #---------------------------------------------------------------------------#
 #	MODULE:			wikipdf.py3												#
 #	INFO:			Accesses a .txt file with each line being a title of a	#
-#					Wikipedia page you'd like to save a PDF of. It then 	#
-#					downloads all the files, saving them with a nice file-	#
-#					name into the folder that the .txt is already in.		#
+#				Wikipedia page you'd like to save a PDF of. It then 	#
+#				downloads all the files, saving them with a nice file-	#
+#				name into the folder that the .txt is already in.		#
 #	INSPIRATION:	Data hoarders have problems too.						#
-#	CODED BY:		iivii @odd_codes										#
-#	EMAIL:			iiviigames@pm.me										#
-#	WEBSITE:		https://odd.codes										#
-#	LICENSE:		BUDDYPACT												#		
-#					BORROW, USE, DONATE, DOWNLOAD!							#
-#					Your price? A courteous thanks.							#
+#	CODED BY:	iivii @odd_codes										#
+#	EMAIL:		iiviigames@pm.me										#
+#	WEBSITE:	https://odd.codes										#
+#	LICENSE:	BUDDYPACT												#		
+#			BORROW, USE, DONATE, DOWNLOAD!							#
+#			Your price? A courteous thanks.							#
 #																			#
 #																			#
 #	Confused about that BUDDYPACT? Well, its simple. You can use my code	#
@@ -153,10 +153,10 @@ download function.
 	api_titles = fix_string_list(text_list, " ", "_")
 	
 	#   Output API List Contents for Testing
-	print("____________________________________________________________\n")
-	for i in api_titles:
-		print(i)
-	print("____________________________________________________________\n")
+        #print("____________________________________________________________\n")
+        #for i in api_titles:
+        #       print(i)
+        #print("____________________________________________________________\n")
 
 	#   RETURN LIST FOR REQUESTING
 	return api_titles
