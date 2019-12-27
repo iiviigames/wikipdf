@@ -1,9 +1,18 @@
 # WikiPDF
 
-This is a python script to download a list of wikipedia pages in PDF format without going through
+These are a set of _nearly_ identical python scripts, which will download a list of wikipedia pages in PDF format without going through
 the hassle of clicking the "Download Page as PDF" link every time.
 
-So, here's what you do.
+> `wikipdf.py` 
+The classic version. Uglier, less user friendly.
+
+>`wikipdfcolor.py`
+The **new and improved** version! As long as you've got a decent terminal (I recommend [ConEmu](https://conemu.github.io/) for Windows users!),
+you should have a lovely, color coded and more intuitive experience overall using the script!
+
+---
+
+So, here's how to use 'em:
 
 How To Use the Script
 ---------------------
@@ -12,7 +21,7 @@ How To Use the Script
 + Extract the zip file to a folder on the Desktop called `WikiPDF` or whatever you want.
 + See the file in there called `tst.txt`? That's how you need to format the .txt files for whatever pages you want to download.  
 If they aren't on new lines, or written just like they are in their actual wikipedia page titles, you may see errors.
-+ Run `wikipdf.py`. A console window will pop up, asking you to enter the folder location for the textfile you'd like to parse is.
++ Run `wikipdf.py` or `wikipdfcolor.py` - _your choice_. A console window will pop up, asking you to enter the folder location for the textfile you'd like to parse is.
 + If you've done these steps right, just hit `Enter` and it will work fine.
 + It will then list any and all `.txt` files present in that directory. This is in case you have more than one and need to choose a specific  
 option.
