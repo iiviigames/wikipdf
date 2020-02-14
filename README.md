@@ -1,5 +1,7 @@
 # WikiPDF
 
+![wikipdfcolor](./img/wikipdfcolor.png)
+
 These are a set of _nearly_ identical python scripts, which will download a list of wikipedia pages in PDF format without going through
 the hassle of clicking the "Download Page as PDF" link every time.
 
