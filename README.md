@@ -31,7 +31,7 @@ How To Use the Script
   + > ![wikipdfcolor](./img/wikipdfcolor.png)
 + The _color_ version will give you a couple of different regularly used file locations, along with the folder you launched the program from. You can enter the corresponding number to make a selection, and then press `ENTER`.
   + You can also choose to enter a _custom directory_ by choosing option 5, and then typing in any path you'd like.
-  + The _classic_ version requires you to enter the location that the textfile you want to use is in. It's bad, and less pretty, and I don't think you should use this one. (_The code is less efficient and more obnoxious too!)
+  + The _classic_ version requires you to enter the location that the textfile you want to use is in. It's bad, and less pretty, and I don't think you should use this one. (_The code is less efficient and more obnoxious too!_)
 + After making your selection, all `.txt` files present in the chosen directory will be displayed without their extensions visible. This is just for aesthetics, **I promise** they are `.txt` files.
 + Finally, enter the file's name (in the example it's `tst`) and pres **`ENTER`**.
 
