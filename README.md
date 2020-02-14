@@ -4,7 +4,8 @@
 Included here are 2 scripts, which will download a list of wikipedia pages in PDF format without going through the hassle of clicking the "Download Page as PDF" link every time you find an interesting article.
 
 <!-- Image 1 -->
-![wikipdfcolor](./img/wikipdfcolor.png)
+![WikiPDFColor Usage](./img/UsingWikiPDF.gif)
+
 
 <!-- Basic Explanation -->
 > `wikipdfcolor.py`
@@ -27,7 +28,7 @@ How To Use the Script
   + > ![Text File Format](./img/wikilist.png)
 
 + Run **`wikipdf.py`** or **`wikipdfcolor.py`** - _your choice_. A console window will pop up. Here's a clip of me using the color version.
-  + > ![WikiPDFColor Usage](./img/UsingWikiPDF.gif)
+  + > ![wikipdfcolor](./img/wikipdfcolor.png)
 + The _color_ version will give you a couple of different regularly used file locations, along with the folder you launched the program from. You can enter the corresponding number to make a selection, and then press `ENTER`.
   + You can also choose to enter a _custom directory_ by choosing option 5, and then typing in any path you'd like.
   + The _classic_ version requires you to enter the location that the textfile you want to use is in. It's bad, and less pretty, and I don't think you should use this one. (_The code is less efficient and more obnoxious too!)
