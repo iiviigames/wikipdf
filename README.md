@@ -1,9 +1,9 @@
 # WikiPDF
 
-![wikipdfcolor](./img/wikipdfcolor.png)
 
-These are a set of _nearly_ identical python scripts, which will download a list of wikipedia pages in PDF format without going through
-the hassle of clicking the "Download Page as PDF" link every time.
+These are a set of _nearly_ identical python scripts, which will download a list of wikipedia pages in PDF format without going through the hassle of clicking the "Download Page as PDF" link every time.
+
+![wikipdfcolor](./img/wikipdfcolor.png)
 
 > `wikipdf.py` 
 The classic version. Uglier, less user friendly.
